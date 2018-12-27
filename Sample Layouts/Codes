@@ -1,0 +1,4 @@
+Code = {'Toilet':'Toil', 'Bathroom':'Bath', 'Bed':'Bed', 'Nightstand':'NST',
+        'Wardrobe':'WAR', 'Desk':'Desk', 'Chair':'Cha', 'Sofa':'Sofa', 'TV':'TV',
+         'Dinner_Table':'DTA', 'Kitchen_Stove':'KS', 'Cupboard':'CB', 'Refrigerator':'RFA',
+        'Wash_Machine':'WM', 'Trash_Bin':'TB'}
